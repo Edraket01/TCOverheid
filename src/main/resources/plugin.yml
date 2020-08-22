@@ -1,0 +1,7 @@
+name: TCOverheid
+version: 1.0.1
+main: net.toadcraft.tcoh.TCOverheid
+api-version: 1.12.2
+authors:
+  - Colablikje12
+  - Edraket01
